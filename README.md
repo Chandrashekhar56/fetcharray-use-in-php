@@ -1,0 +1,2 @@
+# fetcharray use in php
+ 
